@@ -1,0 +1,20 @@
+ Run the Script on TradingView
+Open TradingView:
+
+Go to https://www.tradingview.com and log in to your account (or create one if you don’t have an account yet).
+Open the Pine Script Editor:
+
+On your chart page, click on Pine Script Editor (located at the bottom of the TradingView interface).
+Add the Script:
+
+Copy the code from the .pine or .txt file you downloaded from this repository.
+Paste the code into the Pine Script Editor in TradingView.
+Add the Script to the Chart:
+
+After pasting the code, click the Add to Chart button at the top of the editor to see the visual output and forecasts directly on the chart.
+Customize Parameters (Optional):
+
+You can adjust the script parameters (e.g., RSI period, Fibonacci levels) by modifying the inputs at the top of the script or by changing them from the settings panel after applying the script to the chart.
+4. Visualize and Forecast
+Once the script is added, you will see the visual indicators (e.g., RSI, Fibonacci retracements, buy/sell signals) on your chart.
+Observe real-time predictions, trading signals, and market conditions based on the techniques used in the script.
