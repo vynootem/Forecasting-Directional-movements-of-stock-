@@ -1,0 +1,9 @@
+1. Clone a repository from github:
+
+   git clone <repository_url>
+
+2. Run Jupyter Notebook:
+   
+   jupyter notebook
+
+3. Run the notebook and generate output
